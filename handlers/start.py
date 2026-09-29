@@ -30,7 +30,8 @@ HELP_TEXT = (
     "💻 <b>Kompyuter qurilmalari</b> — Qurilmalar haqida to'liq ma'lumot.\n"
     "🧠 <b>Mini test</b> — O'z bilimlaringizni sinash uchun testlar.\n"
     "📚 <b>Informatika lug‘ati</b> — Muhim terminlar va misollar.\n"
-    "📊 <b>Statistika</b> — Yechilgan testlar va o'zlashtirish foizi (/stats).\n\n"
+    "📊 <b>Statistika</b> — Yechilgan testlar va o'zlashtirish foizi (/stats).\n"
+    "👥 <b>Foydalanuvchilar soni</b> — Botdan foydalanuvchilar soni (/users).\n\n"
     "💡 <i>Istalgan vaqtda /menu orqali asosiy menyuga qaytishingiz mumkin.</i>"
 )
 
@@ -110,6 +111,22 @@ async def cmd_stats(message: Message):
     stats_text = await get_stats_message_text(user_id, full_name)
     await message.answer(
         text=stats_text,
+        reply_markup=get_back_keyboard()
+    )
+
+
+@router.message(Command("users"))
+async def cmd_users(message: Message):
+    """/users komandasi - bot foydalanuvchilari soni va umumiy testlar sonini ko'rish"""
+    stats = await database.get_global_stats()
+    text = (
+        f"👥 <b>BOT FOYDALANUVCHILARI STATISTIKASI</b>\n\n"
+        f"👤 <b>Jami o‘quvchilar (foydalanuvchilar):</b> {stats['users_count']} ta\n"
+        f"🏁 <b>Jami yechilgan testlar:</b> {stats['quizzes_count']} ta\n\n"
+        f"🚀 <i>Har bir yangi foydalanuvchi /start bosganda ushbu hisoblagich avtomatik oshib boradi.</i>"
+    )
+    await message.answer(
+        text=text,
         reply_markup=get_back_keyboard()
     )
 
