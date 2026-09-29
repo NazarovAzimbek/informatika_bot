@@ -41,8 +41,7 @@ logger = logging.getLogger("informatika_bot")
 async def handle_health_check(request):
     """Render uchun Health Check (salomatlik tekshiruvi) sahifasi"""
     return web.Response(
-        text="🤖 Informatika yordamchi boti faol ishlamoqda!",
-        content_type="text/plain; charset=utf-8"
+        text="🤖 Informatika yordamchi boti faol ishlamoqda!"
     )
 
 
