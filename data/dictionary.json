@@ -1,0 +1,107 @@
+{
+  "algoritm": {
+    "termin": "Algoritm (Algorithm)",
+    "tarif": "Ma'lum bir masalani yechish yoki maqsadga erishish uchun bajarilishi lozim bo'lgan aniq va ketma-ket ko'rsatmalar (qadamlar) majmuasi.",
+    "misol": "Choy damlash ketma-ketligi (suv qaynatish, choy solish, damlash) kundalik hayotdagi oddiy algoritm misolidir."
+  },
+  "axborot": {
+    "termin": "Axborot (Information)",
+    "tarif": "Atrof-muhit, hodisalar va obyektlar haqida inson yoki texnik vositalar tomonidan qabul qilinadigan va qayta ishlanadigan barcha ma'lumotlar.",
+    "misol": "Havo harorati bugun 25°C ekanligi haqidagi xabar - bu axborotdir."
+  },
+  "hardware": {
+    "termin": "Hardware (Apparat ta'minoti)",
+    "tarif": "Kompyuterning qo'l bilan ushlab, ko'z bilan ko'rib bo'ladigan barcha moddiy-texnik qurilmalari (qismlari).",
+    "misol": "Monitor, klaviatura, tizimli blok, sichqoncha va ichki platalar hardware hisoblanadi."
+  },
+  "software": {
+    "termin": "Software (Dasturiy ta'minot)",
+    "tarif": "Kompyuter qurilmalarini boshqarish va foydalanuvchi vazifalarini bajarish uchun yozilgan barcha dasturlar, ilovalar va ko'rsatmalar to'plami.",
+    "misol": "Windows, Telegram, Google Chrome va Photoshop dasturlari software hisoblanadi."
+  },
+  "cpu": {
+    "termin": "CPU (Markaziy Protsessor)",
+    "tarif": "Kompyuterning mantiqiy va arifmetik amallarni bajaruvchi, barcha qurilmalar ishini boshqaruvchi asosiy 'bosh miyasi'.",
+    "misol": "Intel Core i7 yoki AMD Ryzen 7 protsessorlari bunga yaqqol misoldir."
+  },
+  "ram": {
+    "termin": "RAM (Tezkor xotira)",
+    "tarif": "Dasturlar ishlab turganda ular talab qiladigan ma'lumotlarni o'ta tezkorlik bilan saqlab turuvchi vaqtinchalik xotira.",
+    "misol": "Kompyuterni o'chirganingizda RAM dagi saqlanmagan ma'lumotlar butunlay o'chib ketadi."
+  },
+  "rom": {
+    "termin": "ROM (Doimiy xotira / Read-Only Memory)",
+    "tarif": "Faqat o'qish uchun mo'ljallangan, kompyuterni ishga tushirish uchun zarur bo'lgan boshlang'ich tizim (BIOS/UEFI) dasturlari yozilgan maxsus mikrosxema.",
+    "misol": "Kompyuter yoqilganda eng birinchi bo'lib aynan ROM dagi dastur qurilmalarni tekshiradi."
+  },
+  "fayl": {
+    "termin": "Fayl (File)",
+    "tarif": "Tashqi xotirada (diskda) ma'lum bir nom va kengaytmaga ega bo'lgan holda yaxlit holda saqlanadigan ma'lumotlar bloki.",
+    "misol": "'referat.docx' yoki 'rasm.png' alohida bittadan fayldir."
+  },
+  "papka": {
+    "termin": "Papka (Folder / Directory)",
+    "tarif": "Fayllarni va boshqa ichki papkalarni mavzusi yoki turlariga ko'ra tartibli saqlash uchun xizmat qiladigan katalog.",
+    "misol": "'Mening hujjatlarim' nomli papka ichida turli darslik fayllari saqlanishi mumkin."
+  },
+  "brauzer": {
+    "termin": "Brauzer (Web Browser)",
+    "tarif": "Internet tarmog'idagi veb-saytlar va sahifalarni ko'rish, qidirish va yuklab olish imkonini beruvchi maxsus dastur.",
+    "misol": "Google Chrome, Mozilla Firefox, Microsoft Edge va Safari mashhur brauzerlardir."
+  },
+  "operatsion tizim": {
+    "termin": "Operatsion Tizim (Operating System / OS)",
+    "tarif": "Kompyuter qurilmalarini boshqaruvchi hamda inson bilan kompyuter o'rtasida qulay muloqotni (interfeysni) ta'minlovchi eng asosiy dasturiy majmua.",
+    "misol": "Windows, Linux, macOS va smartfonlar uchun Android yoki iOS."
+  },
+  "malumotlar bazasi": {
+    "termin": "Ma'lumotlar bazasi (Database)",
+    "tarif": "Katta hajmdagi ma'lumotlarni qulay qidirish, qo'shish, o'zgartirish va xavfsiz saqlash uchun mo'ljallangan maxsus tuzilgan tizim.",
+    "misol": "Maktabdagi barcha o'quvchilar va ularning baholari saqlanadigan elektron jurnal bazasi (masalan, SQLite, MySQL)."
+  },
+  "tarmoq": {
+    "termin": "Kompyuter tarmog'i (Computer Network)",
+    "tarif": "O'zaro ma'lumot almashish va umumiy resurslardan birgalikda foydalanish uchun maxsus kabellar yoki simsiz aloqa orqali bog'langan kompyuterlar tizimi.",
+    "misol": "Maktabdagi informatika xonasidagi barcha kompyuterlarning bir printerga ulangan tarmog'i (LAN)."
+  },
+  "internet": {
+    "termin": "Internet",
+    "tarif": "Butun dunyo bo'ylab millionlab kompyuterlar, serverlar va mahalliy tarmoqlarni yagona standart (TCP/IP) asosida birlashtirgan global axborot tarmog'i.",
+    "misol": "Dunyoning istalgan nuqtasidan turib veb-saytlarni ochish va ma'lumot olish imkoniyati."
+  },
+  "dasturlash": {
+    "termin": "Dasturlash (Programming)",
+    "tarif": "Kompyuter ma'lum bir vazifani bajarishi uchun maxsus dasturlash tillari yordamida algoritmlar va kodlar yozish jarayoni.",
+    "misol": "Kalkulyator dasturi yoki Telegram boti yaratish jarayoni dasturlash hisoblanadi."
+  },
+  "ozgaruvchi": {
+    "termin": "O'zgaruvchi (Variable)",
+    "tarif": "Dastur ishlash jarayonida ma'lumotlarni xotirada vaqtinchalik saqlash uchun beriladigan maxsus nomli xotira katakchasi.",
+    "misol": "Python tilida: yosh = 15 deb yozilsa, 'yosh' o'zgaruvchi bo'lib, uning qiymati 15 ga teng bo'ladi."
+  },
+  "python": {
+    "termin": "Python",
+    "tarif": "O'rganish juda oson, sintaksisi ingliz tiliga yaqin, zamonaviy va kuchli yuqori darajali universal dasturlash tili.",
+    "misol": "Sun'iy intellekt, ma'lumotlar tahlili, saytlar yaratish va Telegram botlari yaratishda keng qo'llaniladi."
+  },
+  "html": {
+    "termin": "HTML (HyperText Markup Language)",
+    "tarif": "Veb-sahifalarning tuzilishi, matnlari, rasmlari va havolalarini belgilovchi maxsus gipermatnli belgilash tili.",
+    "misol": "Saytdagi sarlavhalar va abzaslar <h1>, <p> kabi HTML teglari yordamida hosil qilinadi."
+  },
+  "kiberxavfsizlik": {
+    "termin": "Kiberxavfsizlik (Cybersecurity)",
+    "tarif": "Kompyuterlar, tarmoqlar, dasturlar va ma'lumotlarni ruxsatsiz kirish, o'g'irlash yoki buzish kabi kiberhujumlardan himoya qilish sohasi.",
+    "misol": "Kuchli murakkab parollardan foydalanish va ikki bosqichli tasdiqlash (2FA) kiberxavfsizlik chorasidir."
+  },
+  "bit": {
+    "termin": "Bit (Binary Digit)",
+    "tarif": "Axborotning eng kichik o'lchov birligi bo'lib, faqat ikkita qiymatdan birini (0 yoki 1) qabul qila oladi.",
+    "misol": "Kompyuter barcha axborotlarni (matn, rasm, ovoz) faqat 0 va 1 holatida saqlaydi."
+  },
+  "bayt": {
+    "termin": "Bayt (Byte)",
+    "tarif": "8 ta bitdan iborat bo'lgan asosiy axborot o'lchov birligi. Odatda bitta harf yoki belgini saqlash uchun 1 Bayt xotira kerak bo'ladi.",
+    "misol": "1 Byte = 8 bit. Masalan, 'A' harfi xotirada 1 bayt joy egallaydi."
+  }
+}

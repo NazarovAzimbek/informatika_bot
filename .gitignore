@@ -1,0 +1,21 @@
+# Virtual environment
+venv/
+.venv/
+env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Secrets & Config
+.env
+
+# SQLite ma'lumotlar bazasi
+*.db
+*.sqlite3
+
+# IDE & Editor files
+.vscode/
+.idea/
+*.swp

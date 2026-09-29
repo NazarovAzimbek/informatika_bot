@@ -1,0 +1,98 @@
+{
+  "cpu": {
+    "nomi": "CPU (Central Processing Unit / Markaziy Protsessor)",
+    "vazifasi": "Kompyuterning 'miyasi' bo'lib, barcha hisob-kitoblar, buyruqlar va ma'lumotlarni qayta ishlash jarayonini boshqaradi.",
+    "turi": "Ma'lumotlarni qayta ishlash qurilmasi",
+    "afzalligi": "Kompyuterning umumiy tezligi va samaradorligini belgilab beruvchi eng asosiy komponent."
+  },
+  "ram": {
+    "nomi": "RAM (Random Access Memory / Tezkor Xotira)",
+    "vazifasi": "Hozirda ishlab turgan dasturlar va ochiq ma'lumotlarni vaqtinchalik saqlaydi.",
+    "turi": "Tezkor (vaqtinchalik) xotira qurilmasi",
+    "afzalligi": "Juda yuqori tezlikka ega, biroq kompyuter o'chirilganda undagi barcha ma'lumotlar o'chib ketadi."
+  },
+  "hdd": {
+    "nomi": "HDD (Hard Disk Drive / Qattiq Disk)",
+    "vazifasi": "Katta hajmdagi ma'lumotlarni, operatsion tizim va dasturlarni uzoq muddat magnit diskda saqlaydi.",
+    "turi": "Doimiy xotira (magnit) qurilmasi",
+    "afzalligi": "Hajmi katta va narxi nisbatan arzon, biroq mexanik aylanuvchi disklari bo'lgani sababli tezligi SSD dan ancha sekin."
+  },
+  "ssd": {
+    "nomi": "SSD (Solid State Drive / Yarimo'tkazgichli Disk)",
+    "vazifasi": "Ma'lumotlarni flesh-xotira chiplarida doimiy va o'ta tez saqlaydi.",
+    "turi": "Doimiy xotira (elektron) qurilmasi",
+    "afzalligi": "HDD ga nisbatan 4-10 baravargacha tez ishlaydi, mexanik qismlari yo'q, jim va xavfsiz ishlaydi."
+  },
+  "gpu": {
+    "nomi": "GPU (Graphics Processing Unit / Videokarta)",
+    "vazifasi": "Grafik ma'lumotlarni, o'yinlar, 3D modellar va videolarni qayta ishlab ekranga chiqaradi.",
+    "turi": "Grafik qayta ishlash qurilmasi",
+    "afzalligi": "Murakkab grafik va sun'iy intellekt hisob-kitoblarini parallel ravishda tez bajaradi."
+  },
+  "motherboard": {
+    "nomi": "Motherboard (Ona plata / Asosiy plata)",
+    "vazifasi": "Kompyuterning barcha qismlarini (CPU, RAM, Videokarta, Disklarni) bir-biri bilan elektr va axborot magistrali orqali bog'laydi.",
+    "turi": "Birlashtiruvchi va muvofiqlashtiruvchi asosiy tizim platasi",
+    "afzalligi": "Barcha qurilmalarning o'zaro signallari va quvvat taqsimotini ta'minlaydi."
+  },
+  "monitor": {
+    "nomi": "Monitor (Ekran / Displey)",
+    "vazifasi": "Matn, rasm va video ko'rinishidagi ma'lumotlarni vizual tarzda foydalanuvchiga ko'rsatadi.",
+    "turi": "Axborotni chiqarish qurilmasi",
+    "afzalligi": "Foydalanuvchi bilan kompyuter o'rtasidagi eng asosiy ko'rgazmali aloqa vositasi."
+  },
+  "keyboard": {
+    "nomi": "Keyboard (Klaviatura)",
+    "vazifasi": "Matnlar, belgilar va boshqaruv buyruqlarini kompyuterga kiritish uchun ishlatiladi.",
+    "turi": "Axborotni kiritish qurilmasi",
+    "afzalligi": "Buyruqlar va matnli axborotni eng tez va qulay kiritish usuli."
+  },
+  "mouse": {
+    "nomi": "Mouse (Sichqoncha)",
+    "vazifasi": "Ekrandagi kursor yordamida obyektlarni boshqarish, tanlash va dasturlarni ochish.",
+    "turi": "Axborotni kiritish va ko'rsatish (manipulyator) qurilmasi",
+    "afzalligi": "Grafik interfeysda oson va qulay navigatsiyani ta'minlaydi."
+  },
+  "printer": {
+    "nomi": "Printer (Chop etuvchi qurilma)",
+    "vazifasi": "Elektron matn va tasvirlarni qog'ozga yoki boshqa qattiq yuzaga chop etadi.",
+    "turi": "Axborotni chiqarish qurilmasi",
+    "afzalligi": "Raqamli ma'lumotlarni jismoniy hujjat holiga keltiradi (lazerli va purkagichli turlari bor)."
+  },
+  "scanner": {
+    "nomi": "Scanner (Skaner)",
+    "vazifasi": "Qog'ozdagi matn yoki rasmlarni optik datchiklar orqali raqamli faylga aylantirib kompyuterga kiritadi.",
+    "turi": "Axborotni kiritish qurilmasi",
+    "afzalligi": "Jismoniy hujjat va rasmlarning sifatli raqamli nusxasini yaratadi."
+  },
+  "webcam": {
+    "nomi": "Webcam (Veb-kamera)",
+    "vazifasi": "Jonli video va tasvirlarni yozib oladi hamda internet orqali uzatadi.",
+    "turi": "Axborotni kiritish qurilmasi",
+    "afzalligi": "Onlayn darslar, videokonferensiyalar va muloqot uchun xizmat qiladi."
+  },
+  "microphone": {
+    "nomi": "Microphone (Mikrofon)",
+    "vazifasi": "Inson ovozi va tashqi tovush to'lqinlarini elektr signallariga aylantirib kompyuterga kiritadi.",
+    "turi": "Axborotni kiritish (ovoz) qurilmasi",
+    "afzalligi": "Ovoz yozish, qo'ng'iroqlar va ovozli buyruqlar berish uchun ishlatiladi."
+  },
+  "speaker": {
+    "nomi": "Speaker (Karnay / Kolonka)",
+    "vazifasi": "Kompyuterdagi elektr audio signallarni eshitiladigan tovush to'lqinlariga aylantirib chiqaradi.",
+    "turi": "Axborotni chiqarish (ovoz) qurilmasi",
+    "afzalligi": "Musiqa tinglash, filmlar tomosha qilish va ogohlantirish signallarini eshitish imkonini beradi."
+  },
+  "usb_flash": {
+    "nomi": "USB Flash Drive (Fleshka)",
+    "vazifasi": "Fayllarni ixcham chipda saqlash va bir kompyuterdan ikkinchisiga osongina ko'chirib o'tkazish.",
+    "turi": "Portativ tashqi xotira qurilmasi",
+    "afzalligi": "Kichik, cho'ntakbop, qulay va USB port orqali drayversiz tez ulanadi."
+  },
+  "router": {
+    "nomi": "Router (Marshrutizator)",
+    "vazifasi": "Kompyuterlarni simli (Ethernet) yoki simsiz (Wi-Fi) tarmoqqa birlashtiradi va internet trafigini yo'naltiradi.",
+    "turi": "Tarmoq aloqa qurilmasi",
+    "afzalligi": "Bir nechta qurilmani bir vaqtda xavfsiz tarzda internet tarmog'iga ulaydi."
+  }
+}

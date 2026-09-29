@@ -1,0 +1,158 @@
+{
+  ".docx": {
+    "nomi": "DOCX",
+    "turi": "Matnli hujjat",
+    "dastur": "Microsoft Word, LibreOffice Writer",
+    "vazifasi": "Matnli hujjatlar yaratish, tahrirlash va formatlash."
+  },
+  ".doc": {
+    "nomi": "DOC",
+    "turi": "Eski formatdagi matnli hujjat (Word 97-2003)",
+    "dastur": "Microsoft Word, LibreOffice Writer",
+    "vazifasi": "Matnlarni saqlash va tahrirlash."
+  },
+  ".xlsx": {
+    "nomi": "XLSX",
+    "turi": "Elektron jadval",
+    "dastur": "Microsoft Excel, LibreOffice Calc",
+    "vazifasi": "Hisob-kitoblar, jadvallar va diagrammalar bilan ishlash."
+  },
+  ".xls": {
+    "nomi": "XLS",
+    "turi": "Eski formatdagi elektron jadval (Excel 97-2003)",
+    "dastur": "Microsoft Excel",
+    "vazifasi": "Jadvalli ma'lumotlar bilan ishlash."
+  },
+  ".pptx": {
+    "nomi": "PPTX",
+    "turi": "Taqdimot (Prezentatsiya)",
+    "dastur": "Microsoft PowerPoint, Google Slides",
+    "vazifasi": "Slaydlar va ko'rgazmali taqdimotlar yaratish."
+  },
+  ".ppt": {
+    "nomi": "PPT",
+    "turi": "Eski formatdagi taqdimot (PowerPoint 97-2003)",
+    "dastur": "Microsoft PowerPoint",
+    "vazifasi": "Slayd taqdimotlarini saqlash."
+  },
+  ".pdf": {
+    "nomi": "PDF",
+    "turi": "Portativ hujjat formati (Portable Document Format)",
+    "dastur": "Adobe Acrobat Reader, Har qanday zamonaviy brauzer",
+    "vazifasi": "Hujjatning asl ko'rinishini saqlagan holda o'qish va chop etish."
+  },
+  ".txt": {
+    "nomi": "TXT",
+    "turi": "Oddiy matnli fayl",
+    "dastur": "Notepad (Bloknot), Notepad++, Sublime Text",
+    "vazifasi": "Hech qanday bezaksiz oddiy matnlarni saqlash."
+  },
+  ".csv": {
+    "nomi": "CSV",
+    "turi": "Vergul bilan ajratilgan ma'lumotlar (Comma-Separated Values)",
+    "dastur": "Excel, Notepad, Python (pandas)",
+    "vazifasi": "Katta jadvalli ma'lumotlar bazalarini ixcham ko'rinishda saqlash va almashish."
+  },
+  ".jpg": {
+    "nomi": "JPG / JPEG",
+    "turi": "Siqilgan grafik tasvir (Rasm)",
+    "dastur": "Rasmlar ko'ruvchi dasturlar, Photoshop",
+    "vazifasi": "Fotosuratlar va rasmlarni ixcham hajmda saqlash."
+  },
+  ".jpeg": {
+    "nomi": "JPEG",
+    "turi": "Siqilgan grafik tasvir (Rasm)",
+    "dastur": "Rasmlar ko'ruvchi dasturlar, Photoshop",
+    "vazifasi": "Fotosuratlar va rang-barang tasvirlarni saqlash."
+  },
+  ".png": {
+    "nomi": "PNG",
+    "turi": "Shaffof fonli grafik tasvir (Portable Network Graphics)",
+    "dastur": "Rasmlar ko'ruvchi dasturlar, Photoshop",
+    "vazifasi": "Shaffof fonga (transparency) ega sifatli rasmlarni saqlash."
+  },
+  ".gif": {
+    "nomi": "GIF",
+    "turi": "Animatsiyali grafik tasvir",
+    "dastur": "Brauzerlar, Messenjerlar",
+    "vazifasi": "Qisqa harakatlanuvchi animatsiyalarni ko'rsatish."
+  },
+  ".mp3": {
+    "nomi": "MP3",
+    "turi": "Siqilgan audio (Ovozli fayl)",
+    "dastur": "Musiqa pleyerlari (AIMP, VLC, Windows Media Player)",
+    "vazifasi": "Musiqa va ovoz yozuvlarini saqlash."
+  },
+  ".wav": {
+    "nomi": "WAV",
+    "turi": "Siqilmagan yuqori sifatli audio",
+    "dastur": "Ovoz yozish va tahrirlash dasturlari (Audacity, FL Studio)",
+    "vazifasi": "Ovozni asl toza holatida sifat yo'qotmasdan saqlash."
+  },
+  ".mp4": {
+    "nomi": "MP4",
+    "turi": "Video fayl (MPEG-4)",
+    "dastur": "VLC, Media Player, Brauzerlar",
+    "vazifasi": "Video va ovozni birgalikda yuqori sifatda ko'rsatish."
+  },
+  ".avi": {
+    "nomi": "AVI",
+    "turi": "Video fayl (Audio Video Interleave)",
+    "dastur": "VLC, KMPlayer",
+    "vazifasi": "Video ma'lumotlarni saqlash va ko'rish."
+  },
+  ".mkv": {
+    "nomi": "MKV",
+    "turi": "Matroska Multimedia video konteyneri",
+    "dastur": "VLC Player, KMPlayer",
+    "vazifasi": "Bir nechta audio yo'lakchasi va subtitrlarga ega filmlarni saqlash."
+  },
+  ".zip": {
+    "nomi": "ZIP",
+    "turi": "Siqilgan arxiv fayl",
+    "dastur": "WinRAR, 7-Zip, Windows Explorer",
+    "vazifasi": "Fayllar hajmini kichraytirish va bir papkaga birlashtirish."
+  },
+  ".rar": {
+    "nomi": "RAR",
+    "turi": "Roshal Archive (Siqilgan arxiv)",
+    "dastur": "WinRAR, 7-Zip",
+    "vazifasi": "Fayllarni kuchli siqish va xavfsiz saqlash."
+  },
+  ".7z": {
+    "nomi": "7Z",
+    "turi": "7-Zip yuqori darajada siqilgan arxivi",
+    "dastur": "7-Zip",
+    "vazifasi": "Maksimal darajada siqilgan arxivlarni yaratish."
+  },
+  ".exe": {
+    "nomi": "EXE",
+    "turi": "Ijro etiluvchi dastur (Executable file)",
+    "dastur": "Windows Operatsion Tizimi",
+    "vazifasi": "Dasturlarni ishga tushirish va o'rnatish."
+  },
+  ".py": {
+    "nomi": "PY",
+    "turi": "Python dasturlash tili kodi",
+    "dastur": "Python interpretatori, VS Code, PyCharm",
+    "vazifasi": "Python tilida yozilgan dasturlar va skriptlarni saqlash."
+  },
+  ".html": {
+    "nomi": "HTML",
+    "turi": "Gipermatnli belgilash tili (Veb-sahifa)",
+    "dastur": "Har qanday veb brauzer (Chrome, Firefox, Edge)",
+    "vazifasi": "Saytlar va veb-sahifalar tuzilishini (skeletini) yaratish."
+  },
+  ".css": {
+    "nomi": "CSS",
+    "turi": "Kaskadli uslublar jadvali (Cascading Style Sheets)",
+    "dastur": "Veb-brauzerlar, Kod muharrirlari",
+    "vazifasi": "Sayt sahifalarining dizayni, ranglari va ko'rinishini bezash."
+  },
+  ".js": {
+    "nomi": "JS",
+    "turi": "JavaScript skript kodi",
+    "dastur": "Node.js, Brauzerlar, VS Code",
+    "vazifasi": "Saytlarga harakat, dinamika va interaktivlik qo'shish."
+  }
+}

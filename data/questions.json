@@ -1,0 +1,212 @@
+[
+  {
+    "id": 1,
+    "question": "Qaysi biri axborotni kiritish qurilmasi hisoblanadi?",
+    "options": ["Monitor", "Klaviatura (Keyboard)", "Printer", "Karnay (Speaker)"],
+    "correct_index": 1,
+    "explanation": "Klaviatura ma'lumot va buyruqlarni kompyuterga kiritish uchun ishlatiladi."
+  },
+  {
+    "id": 2,
+    "question": "Qaysi biri axborotni chiqarish qurilmasi hisoblanadi?",
+    "options": ["Skaner", "Mikrofon", "Monitor", "Sichqoncha"],
+    "correct_index": 2,
+    "explanation": "Monitor matn, rasm va video axborotlarini foydalanuvchiga ko'rsatish (chiqarish) vazifasini bajaradi."
+  },
+  {
+    "id": 3,
+    "question": "Kompyuterning barcha amallarini bajaruvchi va boshqaruvchi 'miyasi' nima?",
+    "options": ["RAM", "Protsessor (CPU)", "Qattiq disk (HDD)", "Ona plata"],
+    "correct_index": 1,
+    "explanation": "CPU (Markaziy protsessor) barcha hisoblash va mantiqiy amallarni bajaruvchi asosiy komponentdir."
+  },
+  {
+    "id": 4,
+    "question": "1 Bayt necha bitga teng?",
+    "options": ["2 bit", "4 bit", "8 bit", "16 bit"],
+    "correct_index": 2,
+    "explanation": "Standart kompyuter arxitekturasida 1 Bayt har doim 8 bitdan iborat bo'ladi."
+  },
+  {
+    "id": 5,
+    "question": "1 Kilobayt (KB) necha Baytga teng?",
+    "options": ["1000 Bayt", "1024 Bayt", "512 Bayt", "2048 Bayt"],
+    "correct_index": 1,
+    "explanation": "Kompyuter ikkilik sanoq sistemasiga asoslangani sababli 1 KB = 2¹⁰ = 1024 Bayt."
+  },
+  {
+    "id": 6,
+    "question": "1 Megabayt (MB) necha Kilobaytga teng?",
+    "options": ["1000 KB", "1024 KB", "2048 KB", "1048576 KB"],
+    "correct_index": 1,
+    "explanation": "1 MB = 1024 KB ga teng."
+  },
+  {
+    "id": 7,
+    "question": "Ikkilik (2-lik) sanoq sistemasida qaysi raqamlar ishlatiladi?",
+    "options": ["0, 1, 2", "Faqat 0 va 1", "1 va 2", "0 dan 9 gacha"],
+    "correct_index": 1,
+    "explanation": "Ikkilik sanoq sistemasining asosi 2 bo'lib, faqat ikkita raqamdan: 0 va 1 dan foydalaniladi."
+  },
+  {
+    "id": 8,
+    "question": "Sakkizlik (8-lik) sanoq sistemasidagi eng katta raqam qaysi?",
+    "options": ["8", "7", "9", "6"],
+    "correct_index": 1,
+    "explanation": "Sakkizlik sistemada 0 dan 7 gacha bo'lgan 8 ta raqam ishlatiladi, eng kattasi 7 dir."
+  },
+  {
+    "id": 9,
+    "question": "O'n oltilik (16-lik) sanoq sistemasida 10 soni qaysi harf bilan belgilanadi?",
+    "options": ["A", "B", "C", "F"],
+    "correct_index": 0,
+    "explanation": "16-likda 10=A, 11=B, 12=C, 13=D, 14=E, 15=F harflari bilan belgilanadi."
+  },
+  {
+    "id": 10,
+    "question": "O'nlikdagi 5 soni ikkilik sanoq sistemasida qanday yoziladi?",
+    "options": ["100₂", "101₂", "110₂", "111₂"],
+    "correct_index": 1,
+    "explanation": "5 = 4 + 1 = 1×2² + 0×2¹ + 1×2⁰ = 101₂."
+  },
+  {
+    "id": 11,
+    "question": "Standart ASCII jadvalida lotincha bosh 'A' harfining o'nlik kodi nechaga teng?",
+    "options": ["97", "65", "48", "32"],
+    "correct_index": 1,
+    "explanation": "ASCII jadvalida katta 'A' harfining kodi 65 ga teng (kichik 'a' esa 97)."
+  },
+  {
+    "id": 12,
+    "question": ".docx kengaytmali fayl qaysi dasturda yaratiladi?",
+    "options": ["Microsoft Excel", "Microsoft PowerPoint", "Microsoft Word", "Photoshop"],
+    "correct_index": 2,
+    "explanation": ".docx kengaytmasi Microsoft Word matn muharririga tegishli."
+  },
+  {
+    "id": 13,
+    "question": ".xlsx kengaytmali fayl qanday turdagi ma'lumotlarni saqlaydi?",
+    "options": ["Elektron jadvallar", "Ovozli fayllar", "Video lavhalar", "Dastur kodi"],
+    "correct_index": 0,
+    "explanation": ".xlsx formati Microsoft Excel elektron jadval dasturining asosiy formatidir."
+  },
+  {
+    "id": 14,
+    "question": ".pptx kengaytmali fayl nima maqsadda ishlatiladi?",
+    "options": ["Musiqa tinglash", "Slayd taqdimotlar ko'rsatish", "Arxivlash", "Tizimni o'rnatish"],
+    "correct_index": 1,
+    "explanation": ".pptx taqdimot (prezentatsiya) fayllarining formatidir (Microsoft PowerPoint)."
+  },
+  {
+    "id": 15,
+    "question": "Kompyuter o'chirilganda undagi barcha ma'lumotlar o'chib ketadigan xotira qaysi?",
+    "options": ["ROM", "HDD", "RAM (Tezkor xotira)", "SSD"],
+    "correct_index": 2,
+    "explanation": "RAM (Random Access Memory) energiya ta'minotiga bog'liq bo'lib, o'chirilganda ma'lumotlari yo'qoladi."
+  },
+  {
+    "id": 16,
+    "question": "Qaysi xotira turida aylanuvchi magnit disklar va mexanik kallak mavjud?",
+    "options": ["SSD", "RAM", "HDD", "USB Flash"],
+    "correct_index": 2,
+    "explanation": "HDD (Hard Disk Drive) mexanik magnit plastinalar va o'qish/yozish kallaklaridan iborat."
+  },
+  {
+    "id": 17,
+    "question": "Nima sababdan SSD diski HDD ga qaraganda ancha tez ishlaydi?",
+    "options": ["Mexanik qismlari yo'qligi va mikrosxemalarda ishlashi sababli", "Hajmi kattaligi sababli", "Qimmatroq bo'lgani uchun", "Ona plataga ulanmagani uchun"],
+    "correct_index": 0,
+    "explanation": "SSD yarimo'tkazgichli flesh-chiplardan iborat bo'lib, unda harakatlanuvchi mexanik qismlar yo'q."
+  },
+  {
+    "id": 18,
+    "question": "Kompyuterlarni global internet tarmog'iga ulovchi va marshrutlovchi qurilma nima?",
+    "options": ["Kuler", "Router (Marshrutizator)", "Skaner", "Videokarta"],
+    "correct_index": 1,
+    "explanation": "Router tarmoq paketlarini to'g'ri manzilga yo'naltiradi va Wi-Fi/kabel orqali ulanishni ta'minlaydi."
+  },
+  {
+    "id": 19,
+    "question": "Quyidagilardan qaysi biri Veb-brauzer hisoblanadi?",
+    "options": ["Windows Media Player", "Google Chrome", "Adobe Acrobat Reader", "WinRAR"],
+    "correct_index": 1,
+    "explanation": "Google Chrome internetdagi veb-sahifalarni ochish uchun xizmat qiluvchi brauzerdir."
+  },
+  {
+    "id": 20,
+    "question": "Quyidagilardan qaysi biri Operatsion Tizim hisoblanmaydi?",
+    "options": ["Windows 11", "Linux Ubuntu", "Microsoft Excel", "macOS"],
+    "correct_index": 2,
+    "explanation": "Microsoft Excel bu amaliy dastur (elektron jadval), operatsion tizim emas."
+  },
+  {
+    "id": 21,
+    "question": "Veb-sahifaning matnli skeletini va tuzilishini yaratishda nima ishlatiladi?",
+    "options": ["HTML", "Pascal", "Photoshop", "SQL"],
+    "correct_index": 0,
+    "explanation": "HTML (HyperText Markup Language) barcha veb-sahifalarning tayanch skeleti hisoblanadi."
+  },
+  {
+    "id": 22,
+    "question": "Qaysi biri siqilgan arxiv fayl kengaytmasi hisoblanadi?",
+    "options": [".mp3", ".zip", ".exe", ".pdf"],
+    "correct_index": 1,
+    "explanation": ".zip (shuningdek .rar, .7z) fayllarni siqib saqlash uchun mo'ljallangan arxiv kengaytmasidir."
+  },
+  {
+    "id": 23,
+    "question": "1 Gigabayt (GB) necha Megabaytga teng?",
+    "options": ["500 MB", "1000 MB", "1024 MB", "2048 MB"],
+    "correct_index": 2,
+    "explanation": "1 GB = 1024 MB ga teng."
+  },
+  {
+    "id": 24,
+    "question": "Qog'ozdagi rasm yoki matnni raqamli faylga aylantirib beruvchi qurilma qaysi?",
+    "options": ["Printer", "Skaner", "Plotter", "Monitor"],
+    "correct_index": 1,
+    "explanation": "Skaner optik sensorlar orqali qog'ozdagi tasvirni raqamlashtiradi."
+  },
+  {
+    "id": 25,
+    "question": "Algoritm nima?",
+    "options": ["Kompyuter qismlarining yig'indisi", "Masalani yechish uchun ketma-ket aniq buyruqlar to'plami", "Internetdagi sayt", "Elektron pochta xabari"],
+    "correct_index": 1,
+    "explanation": "Algoritm — maqsadga erishish yoki masalani yechish uchun aniq qadam-baqadam ko'rsatmalar ketma-ketligidir."
+  },
+  {
+    "id": 26,
+    "question": "Dasturlashda ma'lumotlarni saqlash uchun ishlatiladigan nomli xotira sohasi nima deb ataladi?",
+    "options": ["Funksiya", "O'zgaruvchi (Variable)", "Sinf (Class)", "Sikl (Loop)"],
+    "correct_index": 1,
+    "explanation": "O'zgaruvchi xotirada ma'lum bir qiymatni saqlab turuvchi maxsus nomlangan katakchadir."
+  },
+  {
+    "id": 27,
+    "question": "Ikkilik sanoq sistemasidagi 1010₂ soni o'nlik sistemasida nechaga teng?",
+    "options": ["8", "10", "12", "14"],
+    "correct_index": 1,
+    "explanation": "1010₂ = 1×2³ + 0×2² + 1×2¹ + 0×2⁰ = 8 + 0 + 2 + 0 = 10₁₀."
+  },
+  {
+    "id": 28,
+    "question": "Shaffof fonga ega bo'lgan sifatli rasm formati qaysi?",
+    "options": [".txt", ".png", ".mp4", ".html"],
+    "correct_index": 1,
+    "explanation": "PNG (Portable Network Graphics) shaffof fonni (alpha-channel) mukammal qo'llab-quvvatlaydi."
+  },
+  {
+    "id": 29,
+    "question": "Axborotning eng kichik o'lchov birligi nima?",
+    "options": ["Bayt", "Bit", "Kilobayt", "Gigabayt"],
+    "correct_index": 1,
+    "explanation": "Bit eng kichik birlik bo'lib, faqat 0 yoki 1 qiymatini oladi."
+  },
+  {
+    "id": 30,
+    "question": "Kompyuter va tarmoqlarni ruxsatsiz kirish va hujumlardan himoya qilish sohasi nima deyiladi?",
+    "options": ["Robototexnika", "Kiberxavfsizlik", "Grafik dizayn", "Web dasturlash"],
+    "correct_index": 1,
+    "explanation": "Kiberxavfsizlik axborot tizimlari va ma'lumotlarni buzib kirishdan himoyalash bilan shug'ullanadi."
+  }
+]
